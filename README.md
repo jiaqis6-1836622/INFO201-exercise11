@@ -3,10 +3,11 @@ This is a collaboration exercise for INFO201
 
 ## Jenny's Recipe
 - tomato and Beef
-  - Tomato
+  - Tomato can
   - Beef
   - garlic
   - salt
+  - soy
 
 ## Jiaqi's Recipe
 - Kale salad
