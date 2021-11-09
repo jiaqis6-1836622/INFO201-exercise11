@@ -1,4 +1,17 @@
 # INFO201-exercise11
 This is a collaboration exercise for INFO201
 
-We have learned using terminal, markdown, git and github, functions, and data frames. The target of this work is to practice collaboration using git.
+## Jenny's Recipe
+- tomato and Beef
+  - Tomato
+  - Beef
+  - garlic
+  - salt
+
+## Jiaqi's Recipe
+- Kale salad
+  - Kale
+  - Boiled egg
+  - Shrimp
+  - Corn
+  - Cucumber
