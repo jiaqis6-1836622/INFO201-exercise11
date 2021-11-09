@@ -7,3 +7,11 @@ This is a collaboration exercise for INFO201
   - Beef
   - garlic
   - soy
+
+## Jiaqi's Recipe
+- Kale salad
+  - Kale
+  - Boiled egg
+  - Shrimp
+  - Corn
+  - Cucumber
