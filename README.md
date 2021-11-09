@@ -6,5 +6,4 @@ This is a collaboration exercise for INFO201
   - Tomato can
   - Beef
   - garlic
-  - salt
   - soy
